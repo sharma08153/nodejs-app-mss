@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://3.109.200.139:9980/sharmatech/repository/nodejs-st/"
+    "registry": "http://3.111.29.102:9980/sharmatech/repository/nodejs-st/"
   },
   
   "scripts": {
@@ -27,7 +27,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "http://3.109.200.139:9980/sharmatech/repository/nodejs-st/"
+    "url": "http://3.111.29.102:9980/sharmatech/repository/nodejs-st/"
   },
   "keywords": [
     "node",
